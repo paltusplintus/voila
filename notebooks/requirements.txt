@@ -1,0 +1,7 @@
+ipywidgets==7.5.1
+voila==0.1.20
+ipyvuetify==1.1.1
+voila-vuetify==0.2.2
+voila-material==0.2.5
+pandas==0.25.3
+neo4j==1.7.6
